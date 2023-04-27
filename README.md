@@ -1,1 +1,1 @@
-# SOA-Patterns
+# SOA Design Patterns
